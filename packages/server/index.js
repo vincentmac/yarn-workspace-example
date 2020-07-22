@@ -1,3 +1,4 @@
-const commonFunction = require('@yarn-workspace-example/common')
+const commonFunction = require("@yarn-workspace-example/common");
 
-commonFunction()
+commonFunction();
+commonFunction();
